@@ -75,7 +75,7 @@ CC0 - Public Domain. These tools are built to resist capture.
 ## Contact
 
 - GitHub: [@fport77](https://github.com/fport77)
-- Substack: [Your Substack URL if you want it here]
+- Substack: [https://substack.com/@fport724799]
 
 ---
 
